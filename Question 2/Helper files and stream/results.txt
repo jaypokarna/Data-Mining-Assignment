@@ -1,0 +1,2 @@
+Number of combo meals offered are :176
+Loss incured is:1.54534509108
